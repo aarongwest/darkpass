@@ -37,7 +37,7 @@ struct ContentView: View {
                     TextField("Enter command", text: $command)
                         .foregroundColor(.green)
                         .font(.system(size: 16, design: .monospaced))
-                        .autocapitalization(.none)  // Move this line here
+                        .textInputAutocapitalization(.never)  // Use this instead of .autocapitalization(.none)
                         .disableAutocorrection(true)
                         .onSubmit {
                             processCommand()
