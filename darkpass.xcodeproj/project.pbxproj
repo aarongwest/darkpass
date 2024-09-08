@@ -14,6 +14,36 @@
 		938496F12C8D47EC0043C0EF /* darkpassTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938496F02C8D47EC0043C0EF /* darkpassTests.swift */; };
 		938496FB2C8D47EC0043C0EF /* darkpassUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938496FA2C8D47EC0043C0EF /* darkpassUITests.swift */; };
 		938496FD2C8D47EC0043C0EF /* darkpassUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938496FC2C8D47EC0043C0EF /* darkpassUITestsLaunchTests.swift */; };
+		9384971B2C8D55A60043C0EF /* TerminalTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497092C8D55A60043C0EF /* TerminalTextField.swift */; };
+		9384971C2C8D55A60043C0EF /* TerminalTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497092C8D55A60043C0EF /* TerminalTextField.swift */; };
+		9384971D2C8D55A60043C0EF /* TerminalTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497092C8D55A60043C0EF /* TerminalTextField.swift */; };
+		9384971E2C8D55A60043C0EF /* Color+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9384970B2C8D55A60043C0EF /* Color+Extensions.swift */; };
+		9384971F2C8D55A60043C0EF /* Color+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9384970B2C8D55A60043C0EF /* Color+Extensions.swift */; };
+		938497202C8D55A60043C0EF /* Color+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9384970B2C8D55A60043C0EF /* Color+Extensions.swift */; };
+		938497212C8D55A60043C0EF /* Font+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9384970C2C8D55A60043C0EF /* Font+Extensions.swift */; };
+		938497222C8D55A60043C0EF /* Font+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9384970C2C8D55A60043C0EF /* Font+Extensions.swift */; };
+		938497232C8D55A60043C0EF /* Font+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9384970C2C8D55A60043C0EF /* Font+Extensions.swift */; };
+		938497242C8D55A60043C0EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9384970F2C8D55A60043C0EF /* Preview Assets.xcassets */; };
+		938497252C8D55A60043C0EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9384970F2C8D55A60043C0EF /* Preview Assets.xcassets */; };
+		938497262C8D55A60043C0EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9384970F2C8D55A60043C0EF /* Preview Assets.xcassets */; };
+		938497272C8D55A60043C0EF /* TypingAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497112C8D55A60043C0EF /* TypingAnimation.swift */; };
+		938497282C8D55A60043C0EF /* TypingAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497112C8D55A60043C0EF /* TypingAnimation.swift */; };
+		938497292C8D55A60043C0EF /* TypingAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497112C8D55A60043C0EF /* TypingAnimation.swift */; };
+		9384972A2C8D55A60043C0EF /* CommandLineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497132C8D55A60043C0EF /* CommandLineView.swift */; };
+		9384972B2C8D55A60043C0EF /* CommandLineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497132C8D55A60043C0EF /* CommandLineView.swift */; };
+		9384972C2C8D55A60043C0EF /* CommandLineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497132C8D55A60043C0EF /* CommandLineView.swift */; };
+		9384972D2C8D55A60043C0EF /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497142C8D55A60043C0EF /* MainView.swift */; };
+		9384972E2C8D55A60043C0EF /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497142C8D55A60043C0EF /* MainView.swift */; };
+		9384972F2C8D55A60043C0EF /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497142C8D55A60043C0EF /* MainView.swift */; };
+		938497302C8D55A60043C0EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 938497162C8D55A60043C0EF /* Assets.xcassets */; };
+		938497312C8D55A60043C0EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 938497162C8D55A60043C0EF /* Assets.xcassets */; };
+		938497322C8D55A60043C0EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 938497162C8D55A60043C0EF /* Assets.xcassets */; };
+		938497332C8D55A60043C0EF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497172C8D55A60043C0EF /* ContentView.swift */; };
+		938497342C8D55A60043C0EF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497172C8D55A60043C0EF /* ContentView.swift */; };
+		938497352C8D55A60043C0EF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497172C8D55A60043C0EF /* ContentView.swift */; };
+		938497362C8D55A60043C0EF /* darkpassApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497192C8D55A60043C0EF /* darkpassApp.swift */; };
+		938497372C8D55A60043C0EF /* darkpassApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497192C8D55A60043C0EF /* darkpassApp.swift */; };
+		938497382C8D55A60043C0EF /* darkpassApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938497192C8D55A60043C0EF /* darkpassApp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +75,17 @@
 		938496F62C8D47EC0043C0EF /* darkpassUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = darkpassUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		938496FA2C8D47EC0043C0EF /* darkpassUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = darkpassUITests.swift; sourceTree = "<group>"; };
 		938496FC2C8D47EC0043C0EF /* darkpassUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = darkpassUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		938497092C8D55A60043C0EF /* TerminalTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TerminalTextField.swift; sourceTree = "<group>"; };
+		9384970B2C8D55A60043C0EF /* Color+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Extensions.swift"; sourceTree = "<group>"; };
+		9384970C2C8D55A60043C0EF /* Font+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Font+Extensions.swift"; sourceTree = "<group>"; };
+		9384970F2C8D55A60043C0EF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		938497112C8D55A60043C0EF /* TypingAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TypingAnimation.swift; sourceTree = "<group>"; };
+		938497132C8D55A60043C0EF /* CommandLineView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CommandLineView.swift; sourceTree = "<group>"; };
+		938497142C8D55A60043C0EF /* MainView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		938497162C8D55A60043C0EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		938497172C8D55A60043C0EF /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		938497182C8D55A60043C0EF /* darkpass.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.entitlements; path = darkpass.entitlements; sourceTree = "<group>"; };
+		938497192C8D55A60043C0EF /* darkpassApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = darkpassApp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +136,7 @@
 		938496DD2C8D47EA0043C0EF /* darkpass */ = {
 			isa = PBXGroup;
 			children = (
+				9384971A2C8D55A60043C0EF /* darkpass */,
 				938496DE2C8D47EA0043C0EF /* darkpassApp.swift */,
 				938496E02C8D47EA0043C0EF /* ContentView.swift */,
 				938496E22C8D47EC0043C0EF /* Assets.xcassets */,
@@ -127,6 +169,72 @@
 				938496FC2C8D47EC0043C0EF /* darkpassUITestsLaunchTests.swift */,
 			);
 			path = darkpassUITests;
+			sourceTree = "<group>";
+		};
+		9384970A2C8D55A60043C0EF /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				938497092C8D55A60043C0EF /* TerminalTextField.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		9384970D2C8D55A60043C0EF /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				9384970B2C8D55A60043C0EF /* Color+Extensions.swift */,
+				9384970C2C8D55A60043C0EF /* Font+Extensions.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		9384970E2C8D55A60043C0EF /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		938497102C8D55A60043C0EF /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				9384970F2C8D55A60043C0EF /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		938497122C8D55A60043C0EF /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				938497112C8D55A60043C0EF /* TypingAnimation.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		938497152C8D55A60043C0EF /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				938497132C8D55A60043C0EF /* CommandLineView.swift */,
+				938497142C8D55A60043C0EF /* MainView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		9384971A2C8D55A60043C0EF /* darkpass */ = {
+			isa = PBXGroup;
+			children = (
+				9384970A2C8D55A60043C0EF /* Components */,
+				9384970D2C8D55A60043C0EF /* Extensions */,
+				9384970E2C8D55A60043C0EF /* Models */,
+				938497102C8D55A60043C0EF /* Preview Content */,
+				938497122C8D55A60043C0EF /* Utilities */,
+				938497152C8D55A60043C0EF /* Views */,
+				938497162C8D55A60043C0EF /* Assets.xcassets */,
+				938497172C8D55A60043C0EF /* ContentView.swift */,
+				938497182C8D55A60043C0EF /* darkpass.entitlements */,
+				938497192C8D55A60043C0EF /* darkpassApp.swift */,
+			);
+			name = darkpass;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -234,6 +342,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				938496E72C8D47EC0043C0EF /* Preview Assets.xcassets in Resources */,
+				938497242C8D55A60043C0EF /* Preview Assets.xcassets in Resources */,
+				938497302C8D55A60043C0EF /* Assets.xcassets in Resources */,
 				938496E32C8D47EC0043C0EF /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -242,6 +352,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				938497312C8D55A60043C0EF /* Assets.xcassets in Resources */,
+				938497252C8D55A60043C0EF /* Preview Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,6 +361,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				938497322C8D55A60043C0EF /* Assets.xcassets in Resources */,
+				938497262C8D55A60043C0EF /* Preview Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,7 +374,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				938496E12C8D47EA0043C0EF /* ContentView.swift in Sources */,
+				9384972D2C8D55A60043C0EF /* MainView.swift in Sources */,
+				938497362C8D55A60043C0EF /* darkpassApp.swift in Sources */,
 				938496DF2C8D47EA0043C0EF /* darkpassApp.swift in Sources */,
+				938497212C8D55A60043C0EF /* Font+Extensions.swift in Sources */,
+				938497272C8D55A60043C0EF /* TypingAnimation.swift in Sources */,
+				938497332C8D55A60043C0EF /* ContentView.swift in Sources */,
+				9384971B2C8D55A60043C0EF /* TerminalTextField.swift in Sources */,
+				9384972A2C8D55A60043C0EF /* CommandLineView.swift in Sources */,
+				9384971E2C8D55A60043C0EF /* Color+Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +391,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				938496F12C8D47EC0043C0EF /* darkpassTests.swift in Sources */,
+				9384972E2C8D55A60043C0EF /* MainView.swift in Sources */,
+				938497372C8D55A60043C0EF /* darkpassApp.swift in Sources */,
+				938497342C8D55A60043C0EF /* ContentView.swift in Sources */,
+				938497282C8D55A60043C0EF /* TypingAnimation.swift in Sources */,
+				9384972B2C8D55A60043C0EF /* CommandLineView.swift in Sources */,
+				9384971C2C8D55A60043C0EF /* TerminalTextField.swift in Sources */,
+				938497222C8D55A60043C0EF /* Font+Extensions.swift in Sources */,
+				9384971F2C8D55A60043C0EF /* Color+Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,7 +407,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				938496FD2C8D47EC0043C0EF /* darkpassUITestsLaunchTests.swift in Sources */,
+				9384972F2C8D55A60043C0EF /* MainView.swift in Sources */,
+				938497382C8D55A60043C0EF /* darkpassApp.swift in Sources */,
 				938496FB2C8D47EC0043C0EF /* darkpassUITests.swift in Sources */,
+				938497232C8D55A60043C0EF /* Font+Extensions.swift in Sources */,
+				938497292C8D55A60043C0EF /* TypingAnimation.swift in Sources */,
+				938497352C8D55A60043C0EF /* ContentView.swift in Sources */,
+				9384971D2C8D55A60043C0EF /* TerminalTextField.swift in Sources */,
+				9384972C2C8D55A60043C0EF /* CommandLineView.swift in Sources */,
+				938497202C8D55A60043C0EF /* Color+Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
